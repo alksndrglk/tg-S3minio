@@ -2,13 +2,13 @@
 
 ## Для запуска
 заполнить .env файл переменными
-'''
+```
 BOT_TOKEN=
 MINIO_ROOT_USER=
 MINIO_ROOT_PASSWORD=
-'''
+```
 
-'''
+```
 docker-compose up
-'''
+```
 
